@@ -1,9 +1,9 @@
 class Pgb < Formula
   desc "CLI for Adobe PhoneGap Build"
   homepage "https://build.phonegap.com"
-  url "https://github.com/phonegap-build/pgb-cli/releases/download/v1.0.1/pgb.macos.tar.gz"
-  sha256 "908efddc994d77a7d12e88e91698f8c474b9fe157e8689862f5cb34e3899da6c"
-  version "1.0.1"
+  url "https://github.com/phonegap-build/pgb-cli/releases/download/v1.0.2/pgb.macos.tar.gz"
+  sha256 "72b2f089a8a3841e002dfe4d73e8e663798eadf5a1017b8c7e547804733a493d"
+  version "1.0.2"
   bottle :unneeded
 
   def install
